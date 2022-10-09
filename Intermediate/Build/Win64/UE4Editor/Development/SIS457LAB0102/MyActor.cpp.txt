@@ -1,0 +1,3 @@
+D:\Usuarios\Datos_Otto_Ch\Documents\Unreal Projects\SIS457LAB0102\Intermediate\Build\Win64\UE4Editor\Development\SIS457LAB0102\Definitions.SIS457LAB0102.h
+D:\Usuarios\Datos_Otto_Ch\Documents\Unreal Projects\SIS457LAB0102\Source\SIS457LAB0102\MyActor.h
+D:\Usuarios\Datos_Otto_Ch\Documents\Unreal Projects\SIS457LAB0102\Intermediate\Build\Win64\UE4Editor\Inc\SIS457LAB0102\MyActor.generated.h
